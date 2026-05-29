@@ -12,8 +12,17 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```
+def lamb(a,b):
+    return divmod(a,b)
+a=int(input())
+b=int(input())
+print(divmod(a,b))
+```
 
 ## Output
+<img width="938" height="865" alt="image" src="https://github.com/user-attachments/assets/4094f4e0-a8d4-4a24-8586-7e68a5d259e0" />
+
 
 ## Result
+Thus the given python program has been executed successfully.
